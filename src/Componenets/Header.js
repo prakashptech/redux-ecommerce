@@ -27,9 +27,9 @@ function Header() {
         <>
             <Navbar bg="dark" variant="dark" style={{ height: "60px" }}>
                 <Container>
-                    <NavLink to="/" className="text-decoration-none text-light mx-3">Add to Cart</NavLink>
+                    <NavLink to="/" className="text-decoration-none text-light mx-3">Add to Cart 123</NavLink>
                     <Nav className="me-auto">
-                        <NavLink to="/" className="text-decoration-none text-light">Home</NavLink>
+                        <NavLink to="/" className="text-decoration-none text-light">Home mini</NavLink>
                     </Nav>
 
                     <Badge color="primary"
